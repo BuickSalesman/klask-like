@@ -1,14 +1,9 @@
 # Most Recent Events Summary
 
-    Created a new project
-    Did not install anything
-    Did research into what libraries were needed
-    Created README.md
-    Created notes directory, and created two note files, inlcuding this one.
+    Created client, server, and shared directories
+    Created src directory in both client and server
 
 # Next Steps
-    Create client, server, and shared directories
-        - Delete src in root and make an src in both client and server
 
     Create an index.html within client
         - Put a canvas on in
