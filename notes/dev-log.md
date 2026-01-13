@@ -2,6 +2,7 @@
 
     Created client, server, and shared directories
     Created src directory in both client and server
+    Updated index.html with boilerplate HTML
 
 # Next Steps
 
